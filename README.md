@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Dr
    - **Description**: A self-learning project include reinforement learning, neural networks, planning algorithm
    - **Technologies Used**: Python, TensorFlow, OpenCV, ROS
      currently not uploaded yet, but will follow up soon.
-   - [View Repository](https://github.com/JojenJ/autonomous_driving_self_learning)
+   - [View Repository](https://github.com/JojenJ/self_learning)
 
 ---
 
