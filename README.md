@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Jojen!
 
-<!--
-**JojenJ/JojenJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Driving**, and **Machine Learning**. Currently, I am working on various robotics projects that integrate real-time systems, path planning, computer vision, and control theory.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Projects**
+
+### 1. **OUTDOOR_RACE -- SMART CAR RACE** 🚗
+   - **Description**: This project is a part of the **19th SMART CAR RACE - Outdoor Category**. It integrates multiple technologies, including **SLAM**, **Path Planning**, and **YOLOv5** for real-time obstacle detection and autonomous driving.
+   - **Technologies Used**: Python, ROS, GMapping, YOLOv5, Stanley Control, Radar Data Processing
+   - **Competition Result**: Top 10 in the national finals with a best time of **37 seconds**!
+   - [View Repository](https://github.com/JojenJ/OUTDOOR_RACE--SMART_CAR_RACE)
+
+### 2. **CUG_Curriculum** 📚
+   - **Description**: A collection of educational resources and tools developed for the curriculum at China University of Geosciences, focusing on robotics and autonomous driving.
+   - **Technologies Used**: Python, Robotics Algorithms
+   - [View Repository](https://github.com/JojenJ/CUG_Curriculum)
+
+### 3. **time_delay** ⏳
+   - **Description**: A project to demonstrate and calculate time delays in real-time robotic systems, crucial for synchronization in multi-agent systems.
+   - **Technologies Used**: MATLAB, Python
+   - [View Repository](https://github.com/JojenJ/time_delay)
+
+### 4. **autonomous_driving_self_learning** 🤖
+   - **Description**: A self-learning autonomous driving system where I experiment with various algorithms to improve vehicle control, localization, and navigation.
+   - **Technologies Used**: Python, TensorFlow, OpenCV, ROS
+   - [View Repository](https://github.com/JojenJ/autonomous_driving_self_learning)
+
+---
+
+## 🌱 **About Me**
+
+I'm an automation enthusiast, currently working towards improving the autonomy and intelligence of systems. My focus areas include:
+
+- **Robotics**: Designing intelligent robotic systems.
+- **Machine Learning**: Applying learning-based methods on planning and control
+- **Autonomous Vehicles**: Working on navigation, perception, and path-planning algorithms.
+
+I am excited to collaborate on innovative projects and learn from like-minded developers.
+
+---
+
+## 📫 **Contact Me**
+
+- **Email**: chenziyi139@gmail.com
+- **GitHub**: [https://github.com/JojenJ](https://github.com/JojenJ)
+
+Feel free to reach out if you're interested in collaboration or just want to chat about robotics! 😊
