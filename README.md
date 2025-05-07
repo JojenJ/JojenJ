@@ -22,9 +22,10 @@ Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Dr
    - **Technologies Used**: MATLAB, Python
    - [View Repository](https://github.com/JojenJ/time_delay)
 
-### 4. **autonomous_driving_self_learning** 🤖
-   - **Description**: A self-learning autonomous driving system where I experiment with various algorithms to improve vehicle control, localization, and navigation.
+### 4. **self_learning** 🤖
+   - **Description**: A self-learning project include reinforement learning, neural networks, planning algorithm
    - **Technologies Used**: Python, TensorFlow, OpenCV, ROS
+     currently not uploaded yet, but will follow up soon.
    - [View Repository](https://github.com/JojenJ/autonomous_driving_self_learning)
 
 ---
