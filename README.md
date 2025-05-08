@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Dr
      
 ### 5. **CUG_Curriculum** 📚
    - **Description**: A collection of educational resources and tools developed for the curriculum at China University of Geosciences, focusing on robotics and autonomous driving.
-   - **Technologies Used**: Assembly Language, C/C++, qt, sql
+   - **Technologies Used**: Assembly Language, C/C++, qt, sql, python
    - [View Repository](https://github.com/JojenJ/CUG_Curriculum)
 ---
 
