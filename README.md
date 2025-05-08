@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jojen!
 
-Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Driving**, and **Machine Learning**. Currently, I am working on various robotics projects that integrate real-time systems, path planning, computer vision, and control theory.
+Welcome to my GitHub profile. I'm passionate about **Robotics**, **Autonomous Driving**, and **Machine Learning**. Currently, I am working on various robotics projects that integrate real-time systems, path planning, computer vision, and control theory.
 
 ---
 
