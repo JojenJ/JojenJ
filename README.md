@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Dr
    - [View Repository](https://github.com/JojenJ/Coordinated-Control-Strategy-for-Industrial-Load-Frequency-Regulation-Based-on-PSO)
 
 ### 3. **time_delay** ⏳
-   - **Description**: A project to demonstrate and calculate time delays in real-time robotic systems, crucial for synchronization in multi-agent systems.
+   - **Description**: A project to demonstrate and calculate time delays in real-life systems.
    - **Technologies Used**: MATLAB, Python
    - [View Repository](https://github.com/JojenJ/time_delay)
 
