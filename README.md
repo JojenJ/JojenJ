@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Dr
    - **Technologies Used**: Python, ROS, GMapping, YOLOv5, Stanley Control, Radar Data Processing
    - **Competition Result**: Top 10 in the national finals with a best time of **37 seconds**!
    - [View Repository](https://github.com/JojenJ/OUTDOOR_RACE--SMART_CAR_RACE)
-
-### 2. **CUG_Curriculum** 📚
-   - **Description**: A collection of educational resources and tools developed for the curriculum at China University of Geosciences, focusing on robotics and autonomous driving.
-   - **Technologies Used**: Python, Robotics Algorithms
+     
+### 2. **Coordinated Control Strategy for Industrial Load Frequency Regulation Based on Particle Swarm Optimization** 📚
+   - **Description**: This project establishes a robust framework for integrating industrial loads into power system frequency regulation using a coordinated control strategy enhanced by Particle Swarm Optimization.
+   - **Technologies Used**: Matlab, RT-Lab
    - [View Repository](https://github.com/JojenJ/CUG_Curriculum)
 
 ### 3. **time_delay** ⏳
@@ -27,7 +27,11 @@ Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Dr
    - **Technologies Used**: Python, TensorFlow, OpenCV, ROS
      currently not uploaded yet, but will follow up soon.
    - [View Repository](https://github.com/JojenJ/self_learning)
-
+     
+### 5. **CUG_Curriculum** 📚
+   - **Description**: A collection of educational resources and tools developed for the curriculum at China University of Geosciences, focusing on robotics and autonomous driving.
+   - **Technologies Used**: Python, Robotics Algorithms
+   - [View Repository](https://github.com/JojenJ/CUG_Curriculum)
 ---
 
 ## 🌱 **About Me**
