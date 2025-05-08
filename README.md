@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Dr
 
 ### 3. **time_delay** ⏳
    - **Description**: A project to demonstrate and calculate time delays in real-life systems.
-   - **Technologies Used**: MATLAB, Python
+   - **Technologies Used**: MATLAB
    - [View Repository](https://github.com/JojenJ/time_delay)
 
 ### 4. **self_learning** 🤖
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Dr
      
 ### 5. **CUG_Curriculum** 📚
    - **Description**: A collection of educational resources and tools developed for the curriculum at China University of Geosciences, focusing on robotics and autonomous driving.
-   - **Technologies Used**: Python, Robotics Algorithms
+   - **Technologies Used**: Assembly Language, C/C++, qt, sql
    - [View Repository](https://github.com/JojenJ/CUG_Curriculum)
 ---
 
