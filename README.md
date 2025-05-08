@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about **Robotics**, **Autonomous Dr
 ### 2. **Coordinated Control Strategy for Industrial Load Frequency Regulation Based on Particle Swarm Optimization** 📚
    - **Description**: This project establishes a robust framework for integrating industrial loads into power system frequency regulation using a coordinated control strategy enhanced by Particle Swarm Optimization.
    - **Technologies Used**: Matlab, RT-Lab
-   - [View Repository](https://github.com/JojenJ/CUG_Curriculum)
+   - [View Repository](https://github.com/JojenJ/Coordinated-Control-Strategy-for-Industrial-Load-Frequency-Regulation-Based-on-PSO)
 
 ### 3. **time_delay** ⏳
    - **Description**: A project to demonstrate and calculate time delays in real-time robotic systems, crucial for synchronization in multi-agent systems.
